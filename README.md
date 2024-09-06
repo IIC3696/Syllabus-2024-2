@@ -25,8 +25,8 @@ El objetivo de este curso es estudiar las _Graph Neural Networks_, las cuales so
 |22 oct	|Ignacio Monardes	| __RelBench: A benchmark for deep learning on relational databases__ <br> _Joshua Robinson, Rishabh Ranjan, Weihua Hu, Kexin Huang, Jiaqi Han, Alejandro Dobles, Matthias Fey, Jan E. Lenssen, Yiwen Yuan, Zecheng Zhang, Xinwei He, Jure Leskovec_ | [Link](https://arxiv.org/abs/2407.20060)
 |29 oct|	Tomás Vergara	| __Fine-grained Expressivity of Graph Neural Networks__ <br> _Jan Böker, Ron Levie, Ningyuan Huang, Soledad Villar, Christopher Morris_ | [Link](https://arxiv.org/abs/2306.03698)
 |05 nov|	Jose Antonio Valladares	| __GNN-IDS: Graph Neural Network based Intrusion Detection System__ <br> _Zhenlu Sun, André M.H. Teixeira, Salman Toor_ | [Link](https://dl.acm.org/doi/10.1145/3664476.3664515)
-|12 nov|	Benjamín Álvarez	| __Zero-One Laws of Graph Neural Networks__ <br> _Sam Adam-Day, Theodor Mihai Iliant, İsmail İlkan Ceylan_ | [Link](https://arxiv.org/abs/2301.13060)
-|19 nov|	Amanda Salinas 	| __Combinatorial optimization and reasoning with graph neural networks__ <br> _Quentin Cappart, Didier Chételat, Elias Khalil, Andrea Lodi, Christopher Morris, Petar Veličković_ | [Link](https://arxiv.org/abs/2102.09544)  
+|12 nov|	Amanda Salinas 	| __Combinatorial optimization and reasoning with graph neural networks__ <br> _Quentin Cappart, Didier Chételat, Elias Khalil, Andrea Lodi, Christopher Morris, Petar Veličković_ | [Link](https://arxiv.org/abs/2102.09544)  
+|19 nov|	Benjamín Álvarez	| __Zero-One Laws of Graph Neural Networks__ <br> _Sam Adam-Day, Theodor Mihai Iliant, İsmail İlkan Ceylan_ | [Link](https://arxiv.org/abs/2301.13060)
 |26 nov|	Maximiliano Ojeda| 	__Attending to graph transformers__ <br>  _Luis Müller, Mikhail Galkin, Christopher Morris, Ladislav Rampášek_ | [Link](https://arxiv.org/abs/2302.04181)
 
 ---
