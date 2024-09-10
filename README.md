@@ -17,7 +17,8 @@ El objetivo de este curso es estudiar las _Graph Neural Networks_, las cuales so
 
 | Fecha | Estudiante | Paper | Material |
 |---|---|---|---|
-|10 sept|	Gabriel Catalan	| __Learning production functions for supply chains with graph neural networks__ <br> _Serina Chang, Zhiyin Lin, Benjamin Yan, Swapnil Bembde, Qi Xiu, Chi Heem Wong, Yu Qin, Frank Kloster, Alex Luo, Raj Palleti, Jure Leskovec_ | [Link](https://arxiv.org/abs/2407.18772) [Slides](Slides presentaciones/Gabriel Catalan/Presentación_Paper.pdf)
+|10 sept|	Gabriel Catalan	| __Learning production functions for supply chains with graph neural networks__ <br> _Serina Chang, Zhiyin Lin, Benjamin Yan, Swapnil Bembde, Qi Xiu, Chi Heem Wong, Yu Qin, Frank Kloster, Alex Luo, Raj Palleti, Jure Leskovec_ | [Link](https://arxiv.org/abs/2407.18772) [Slides](Syllabus-2024-2
+/Slides presentaciones/Gabriel Catalan/Presentación_Paper.pdf)
 |24 sept|	Sergio Perez|	__Zero-shot Logical Query Reasoning on any Knowledge Graph__ <br> _Mikhail Galkin, Jincheng Zhou, Bruno Ribeiro, Jian Tang, Zhaocheng Zhu_| [Link](https://arxiv.org/abs/2404.07198)
 |01 oct	|Juan Pablo Castillo	| __Efficiently Solving the Practical Vehicle Routing Problem: A Novel Joint Learning Approach__ <br> _Lu Duan, Yang Zhan, Haoyuan Hu, Yu Gong, Jiangwen Wei, Xiaodong Zhang, Yinghui Xu_ | [Link](https://dl.acm.org/doi/10.1145/3394486.3403356)
 |08 oct |	Alexander Infanta	| __Exploring the Power of Graph Neural Networks in Solving Linear Optimization Problems__ <br> _Chendi Qian, Didier Chételat, Christopher Morris_ | [Link](https://arxiv.org/abs/2310.10603)
