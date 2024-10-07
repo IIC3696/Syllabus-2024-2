@@ -18,7 +18,7 @@ El objetivo de este curso es estudiar las _Graph Neural Networks_, las cuales so
 | Fecha | Estudiante | Paper | Material |
 |---|---|---|---|
 |10 sept|	Gabriel Catalan	| __Learning production functions for supply chains with graph neural networks__ <br> _Serina Chang, Zhiyin Lin, Benjamin Yan, Swapnil Bembde, Qi Xiu, Chi Heem Wong, Yu Qin, Frank Kloster, Alex Luo, Raj Palleti, Jure Leskovec_ | [Link](https://arxiv.org/abs/2407.18772) [Slides](Slides%20presentaciones/Gabriel%20Catalan/Presentación_Paper.pdf)
-|24 sept|	Sergio Perez|	__Zero-shot Logical Query Reasoning on any Knowledge Graph__ <br> _Mikhail Galkin, Jincheng Zhou, Bruno Ribeiro, Jian Tang, Zhaocheng Zhu_| [Link](https://arxiv.org/abs/2404.07198) [Slides](Slides%20presentaciones/Sergio%20Perez/Zero-shot%20Logical%20Query%20Reasoning%20on%20any%20Knowledge%20 Graph.pptx)
+|24 sept|	Sergio Perez|	__Zero-shot Logical Query Reasoning on any Knowledge Graph__ <br> _Mikhail Galkin, Jincheng Zhou, Bruno Ribeiro, Jian Tang, Zhaocheng Zhu_| [Link](https://arxiv.org/abs/2404.07198) [Slides](Slides%20presentaciones/Gabriel%20Catalan/Presentación_Paper.pdf)
 |08 oct |	Alexander Infanta	| __Exploring the Power of Graph Neural Networks in Solving Linear Optimization Problems__ <br> _Chendi Qian, Didier Chételat, Christopher Morris_ | [Link](https://arxiv.org/abs/2310.10603)
 | 15 oct|	Vicente Lermanda|	Por definir | [Link]()
 |22 oct	|Ignacio Monardes	| __RelBench: A benchmark for deep learning on relational databases__ <br> _Joshua Robinson, Rishabh Ranjan, Weihua Hu, Kexin Huang, Jiaqi Han, Alejandro Dobles, Matthias Fey, Jan E. Lenssen, Yiwen Yuan, Zecheng Zhang, Xinwei He, Jure Leskovec_ | [Link](https://arxiv.org/abs/2407.20060)
